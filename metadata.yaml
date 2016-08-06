@@ -1,0 +1,35 @@
+_repo: Lady-Mary-Wortley-MontagueHer-Life-and-Letters--1689-1762-_10590
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Montagu, Mary Wortley, Lady
+    aliases:
+    - Montague, Mary Wortley, Lady
+    - Montagu, Mary Pierrepont Wortley, Lady
+    - Montagute, Mary Wortlay, Lady
+    birthdate: 1689
+    deathdate: 1762
+    gutenberg_agent_id: '7433'
+    url: http://www.gutenberg.org/2009/agents/7433
+    wikipedia: http://en.wikipedia.org/wiki/Lady_Mary_Wortley_Montagu
+  - agent_name: Melville, Lewis
+    birthdate: 1874
+    deathdate: 1932
+    gutenberg_agent_id: '3588'
+    url: http://www.gutenberg.org/2009/agents/3588
+description: ''
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10590'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Montagu, Mary Wortley, Lady 1689-1762'
+- !lcsh 'Montagu, Mary Wortley, Lady 1689-1762 -- Correspondence'
+- !lcc 'DA'
+- GITenberg
+title: Lady Mary Wortley Montague, Her Life and Letters (1689-1762)
+url: http://www.gutenberg.org/ebooks/10590
