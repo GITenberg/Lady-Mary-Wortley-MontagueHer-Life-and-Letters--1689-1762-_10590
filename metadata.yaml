@@ -1,5 +1,8 @@
 _repo: Lady-Mary-Wortley-MontagueHer-Life-and-Letters--1689-1762-_10590
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - agent_name: Montagu, Mary Wortley, Lady
@@ -18,6 +21,8 @@ creator:
     gutenberg_agent_id: '3588'
     url: http://www.gutenberg.org/2009/agents/3588
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10590#Lady-Mary-Wortley-MontagueHer-Life-and-Letters--1689-1762-
 gutenberg_issued: '2004-01-01'
 gutenberg_type: Text
 identifiers:
